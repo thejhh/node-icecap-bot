@@ -11,7 +11,7 @@ Plan
 
 The bot will use these NPM components:
 
-* [node-icecap](https://github.com/jheusala/node-icecap) or [node-irc](https://github.com/martynsmith/node-irc)
+* [node-icecap](https://github.com/jheusala/node-icecap) (icecap or ssh client required) or [node-irc](https://github.com/martynsmith/node-irc)
 * [node-github](https://github.com/ajaxorg/node-github) for github plugin (issues, etc)
 
 Other resources:
